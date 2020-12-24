@@ -1,16 +1,13 @@
-### Hi there 👋
+## ✏ I recently wrote
+- A [GitHub action to pull in blog posts from Dev.to](https://github.com/ming-yong/dev-posts-to-jekyll-monthly-action).
 
-<!--
-**ming-yong/ming-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙ I build/help with
+  - PHP (Laravel)
+  - JavaScript (Vue and React)
+  - Jekyll
+  - CSS (Sass)
+  
+## 🌱 My To-Learn/To-Do list
+  - Docker
+  - Use Vue and Laravel to build something
+  - Use TypeScript in my project
