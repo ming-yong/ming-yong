@@ -7,7 +7,8 @@
   - Jekyll
   - CSS (Sass)
   
-## 🌱 My To-Learn/To-Do list
-  - Docker
-  - Use Vue and Laravel to build something
-  - Use TypeScript in my project
+## 🌱 My To-Do list
+  - Learn Docker
+  - Use Vue, Laravel
+  - Enhance my project [Matalogue](https://github.com/ming-yong/matalogue)
+  - Write a Pomodoro web app
