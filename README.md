@@ -6,14 +6,16 @@
 
 ## ⚙ I build/help with
 
-- PHP (Laravel)
-- JavaScript (Vue and React)
-- Jekyll
-- CSS (Sass)
+- HTML, CSS(Sass), Jekyll
+  - [Personal website](https://ming-yong.github.io/) [[code](https://github.com/ming-yong/ming-yong.github.io)]
+  - [Old website](https://github.com/ming-yong/archive) [[code](https://github.com/ming-yong/archive)]
+- ReactJS, GraphQL API
+  - [Blog posts fetcher for Matters.news](https://matalogue.netlify.app/) [[code](https://github.com/ming-yong/matalogue)]
+- PHP, VueJS and Laravel
   
 ## 🌱 My To-Do list
 
 - Learn Docker
-- Use Vue, Laravel
+- Build something with Vue and Laravel
 - Enhance my project [Matalogue](https://github.com/ming-yong/matalogue)
 - Write a Pomodoro web app
