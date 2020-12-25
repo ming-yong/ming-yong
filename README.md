@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/ming-yong/ming-yong/blob/master/line%20break.gif" alt="icons GIF"/></p>
 
+👈👈👈👈 Visit my website for more info 
+
 ## ✏ I recently wrote
 
 - A [GitHub action to pull in blog posts from Dev.to](https://github.com/ming-yong/dev-posts-to-jekyll-monthly-action).
@@ -19,5 +21,3 @@
 - Build something with Vue and Laravel
 - Enhance my project [Matalogue](https://github.com/ming-yong/matalogue)
 - Write a Pomodoro web app
-
-👈 Visit my website for more info
