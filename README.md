@@ -20,4 +20,4 @@
 - Enhance my project [Matalogue](https://github.com/ming-yong/matalogue)
 - Write a Pomodoro web app
 
-👈 Visit my website to learn more
+👈 Visit my website for more info
